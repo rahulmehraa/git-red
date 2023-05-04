@@ -16,9 +16,7 @@ const Footer = () =>{
                         <h4 className="footer-widget__title">About</h4>
 
                         <ul className="footer-widget__link">
-                          <li>
-                            <Link to="about.html">About Us</Link>
-                          </li>
+                         
                           <li>
                             <Link to="course-grid-left-sidebar.html">Courses</Link>
                           </li>
